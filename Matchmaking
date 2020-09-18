@@ -1,0 +1,23 @@
+=================================================
+print ("Welcome To Reassurance")
+=================================================
+input ("username for the day : ")
+input ("password : ")
+=================================================
+mental_issues = [anxiety, depression, other]
+input ("Update us on your mental health: ")
+issue = (input)
+
+if issue == "anxiety" or "depression" :
+    (matchmaking)
+else:
+    input("Please type in your issue")
+    (matchmaking)
+break
+
+input ("How are you feeling today? : ")
+today = (input)
+if today == "great" or "good":
+    (matchmaking)
+else:
+    (matchmaking)
